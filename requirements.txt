@@ -1,0 +1,14 @@
+# MNIST_app.py, MNIST_app_02.py
+
+# pip freeze > requirements.txt
+# pip install -r requirements.txt
+# python -m venv mnist_env
+# source mnist_env/bin/activate  # 또는 Windows: mnist_env\Scripts\activate
+# pip install -r requirements.txt
+
+streamlit==1.35.0
+streamlit-drawable-canvas==0.9.3
+torch==2.1.2
+torchvision==0.16.2
+Pillow==10.2.0
+numpy==1.26.4
